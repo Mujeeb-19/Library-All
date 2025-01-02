@@ -15,6 +15,7 @@ dependencies:
   shared_preferences:
   flutter_animate:
   flutter_launcher_icons:
+  provider:
 
 dev_dependencies:
   flutter_test:
