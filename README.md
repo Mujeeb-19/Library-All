@@ -1,3 +1,4 @@
+![Alt Text](https://github.com/Mujeeb-19/Library-All/blob/2c0be003f7236e7d49e4a98f51c9b7033a403aef/Library%20Application.mp4)
 **Library Management System**
 
 A full-stack library management application built using MongoDB, Node.js (TypeScript), and Flutter. This application allows librarians and patrons to manage and interact with the library's book collection.
